@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>0c88dc20-e845-4bac-bae0-a8d86ce1d47a.jpg</filename>
+	<path>D:\download\baidu\fire_detection\fire_detection~\VOC2020\JPEGImages\0c88dc20-e845-4bac-bae0-a8d86ce1d47a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>234</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>114</ymin>
+			<xmax>394</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

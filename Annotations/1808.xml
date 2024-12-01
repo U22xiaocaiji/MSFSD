@@ -1,0 +1,50 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>pic (138).jpg</filename>
+	<path>D:\data\VOC2020\JPEGImages\pic (138).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>94</ymin>
+			<xmax>97</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>27</ymin>
+			<xmax>294</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>98</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

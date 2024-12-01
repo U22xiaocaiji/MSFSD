@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>8f226eae-76b0-486f-a0f9-5e814aeb627e.jpg</filename>
+	<path>D:\data\VOC2020\JPEGImages\8f226eae-76b0-486f-a0f9-5e814aeb627e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>930</width>
+		<height>633</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>32</ymin>
+			<xmax>510</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>
