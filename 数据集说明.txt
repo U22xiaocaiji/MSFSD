@@ -1,4 +1,0 @@
-火灾检测数据集，labels，xml，图片共有2050张图片
-classes：fire smoke
-
-店铺名：爱上深度学习
